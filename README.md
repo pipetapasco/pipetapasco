@@ -53,17 +53,6 @@ No soy el típico dev que solo hace "To-Do Lists". Me dedico a construir arquite
 
 ---
 
-### 📊 Mis Stats (Sí, cuentan los repos privados)
-
-<div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pipetapasco&show_icons=true&theme=dracula&hide_border=true" alt="Estadísticas" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pipetapasco&layout=compact&theme=dracula&hide=html,css&hide_border=true" alt="Lenguajes" />
-</a>
-</div>
-
----
-
 ### 👾 Fuera del teclado
 
 Cuando no estoy arreglando un `UnicodeDecodeError` o revirtiendo un `git push` a main por error (😅), me encuentras:
