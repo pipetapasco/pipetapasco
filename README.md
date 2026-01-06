@@ -57,7 +57,7 @@ No soy el típico dev que solo hace "To-Do Lists". Me dedico a construir arquite
 
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pipetapasco&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="Estadísticas" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pipetapasco&show_icons=true&theme=dracula&hide_border=true" alt="Estadísticas" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pipetapasco&layout=compact&theme=dracula&hide=html,css&hide_border=true" alt="Lenguajes" />
 </a>
 </div>
