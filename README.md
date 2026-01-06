@@ -13,10 +13,6 @@
 👋 <b>¡Hola!</b> Soy un desarrollador de <b>La Paz, Cesar</b>, de los que prefieren el backend y la terminal.
 </p>
 
-<p align="left">
-No soy el típico dev que solo hace "To-Do Lists". Me dedico a construir arquitecturas <b>SaaS Multitenant</b> complejas, pelear con la <b>API de WhatsApp Business</b> y configurar servidores en AWS (a veces luchando contra el CGNAT). Si algo falla en producción, probablemente sea culpa de un worker de Celery rebelde o una migración de Django, pero siempre encuentro cómo arreglarlo.
-</p>
-
 ---
 
 ### ⚙️ Mi caja de herramientas (El Stack)
