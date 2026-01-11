@@ -2,7 +2,7 @@
 
 # Andrés Felipe Tapasco 🐈‍⬛
 
-### Full Stack Dev | Python Hunter | Arquitecto de Caos (y Soluciones)
+### Full Stack Dev | Python dev | Arquitecto de software
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/andres-felipe-tapasco-garzon-59b24624b/)
 [![Kaumer](https://img.shields.io/badge/Building-Kaumer-orange?style=for-the-badge)](https://kaumer.com/)
