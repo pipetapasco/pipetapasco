@@ -48,14 +48,4 @@
 * 🐛 **Open Source:** Intentando democratizar el acceso a CRMs de WhatsApp (porque la API oficial no debería ser tan difícil).
 * 🕹️ **Game Dev:** Experimentando con Unity y Blender cuando el código web me satura.
 
----
-
-### 👾 Fuera del teclado
-
-Cuando no estoy arreglando un `UnicodeDecodeError` o revirtiendo un `git push` a main por error (😅), me encuentras:
-* 🔫 Intentando subir rango en **CS2** (Counter-Strike).
-* ⚔️ Viendo **Vinland Saga**, **Frieren** o buscando qué manga leer.
-* 🐈 Siendo el sirviente de mis **4 gatos**.
-* 🖥️ Viendo qué componente de PC hardware salió hoy (DDR5, GPUs...).
-
 </div>
